@@ -19,3 +19,12 @@ This script demonstrates how email automation works in Python and is created for
 2. Open `email_sender.py`
 3. Update sender and receiver email details
 4. Run the script:
+
+
+### Learning Outcome
+- Understood SMTP protocol
+- Implemented email automation using Python
+- Learned basic security practices for handling credentials
+
+### Note
+Email credentials are not included in this repository for security reasons.
